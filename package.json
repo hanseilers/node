@@ -1,0 +1,9 @@
+{
+  "name": "hellonode",
+  "description": "Node.js Hello world app using docker",
+  "author": "Hans Eilers",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "0.0.1"
+}
